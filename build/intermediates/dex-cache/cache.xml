@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/rajesh/AndroidStudioProjects/CricPlay/app/libs/androidplot-core-0.6.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3db0daea52375b26bfa61c59b8df93950bdefbbc">
+        <dex dex="/home/rajesh/AndroidStudioProjects/CricPlay/app/build/intermediates/pre-dexed/debug/androidplot-core-0.6.1-f57af65247366ef80f6e17262ae14c0f0a5403a7.jar" />
+    </item>
+    <item
+        jar="/home/rajesh/AndroidStudioProjects/CricPlay/app/libs/android-support-v13.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f4f7fcb93c67b84cdc871b82c36d9a849d6c5da1">
+        <dex dex="/home/rajesh/AndroidStudioProjects/CricPlay/app/build/intermediates/pre-dexed/debug/android-support-v13-da99599203abcf55c2bae300b534b928fd4e17b1.jar" />
+    </item>
+    <item
+        jar="/home/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/home/rajesh/AndroidStudioProjects/CricPlay/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-4b760110a4a015f96eb259593cbb28a49d370fd1.jar" />
+    </item>
+    <item
+        jar="/home/rajesh/AndroidStudioProjects/CricPlay/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/home/rajesh/AndroidStudioProjects/CricPlay/app/build/intermediates/pre-dexed/debug/classes-3cc21b5aa0f0f56642483a04facf739dabc7de1f.jar" />
+    </item>
+    <item
+        jar="/home/rajesh/AndroidStudioProjects/CricPlay/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/home/rajesh/AndroidStudioProjects/CricPlay/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-0d4e38fbc579cdb737053734584a0221e039f311.jar" />
+    </item>
+    <item
+        jar="/home/rajesh/AndroidStudioProjects/CricPlay/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/home/rajesh/AndroidStudioProjects/CricPlay/app/build/intermediates/pre-dexed/debug/classes-ece365d9924c4a3283df915931a8d9fa7d65dc96.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/rajesh/AndroidStudioProjects/CricPlay/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="domain_label_font_size">13dp</dimen>
+    <dimen name="domain_tick_label_font_size">15dp</dimen>
+    <dimen name="legend_text_font_size">20dp</dimen>
+    <dimen name="pie_segment_label_font_size">10dp</dimen>
+    <dimen name="range_label_font_size">13dp</dimen>
+    <dimen name="range_tick_label_font_size">15dp</dimen>
+    <dimen name="title_font_size">20dp</dimen>
+    <!-- From: file:/home/rajesh/AndroidStudioProjects/CricPlay/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <!-- From: file:/home/rajesh/AndroidStudioProjects/CricPlay/app/src/main/res/values/strings_activity_login.xml -->
+    <eat-comment/>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <!-- From: file:/home/rajesh/AndroidStudioProjects/CricPlay/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="allscore">All Score</string>
+    <string name="app_name">CricPlay</string>
+    <!-- From: file:/home/rajesh/AndroidStudioProjects/CricPlay/app/src/main/res/values/strings_activity_login.xml -->
+    <eat-comment/>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <!-- From: file:/home/rajesh/AndroidStudioProjects/CricPlay/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="fullGraph">Championship Graph</string>
+    <string name="graph">Graphs</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="logout">logout</string>
+    <string name="matches">Matches</string>
+    <string name="myscore">My Score</string>
+    <!-- From: file:/home/rajesh/AndroidStudioProjects/CricPlay/app/src/main/res/values/strings_activity_login.xml -->
+    <eat-comment/>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <!-- From: file:/home/rajesh/AndroidStudioProjects/CricPlay/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="t1graph">First Tournament</string>
+    <string name="t2graph">Second Tournament</string>
+    <string name="teams">Teams</string>
+    <string name="title_activity_graph">Graphs</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="welcome">Welcome To CricPlay</string>
+    <!-- From: file:/home/rajesh/AndroidStudioProjects/CricPlay/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

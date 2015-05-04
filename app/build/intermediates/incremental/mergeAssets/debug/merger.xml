@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/rajesh/AndroidStudioProjects/CricPlay/app/src/main/assets"><file name="jsapi.js" path="/home/rajesh/AndroidStudioProjects/CricPlay/app/src/main/assets/jsapi.js"/></source></dataSet><dataSet config="debug"><source path="/home/rajesh/AndroidStudioProjects/CricPlay/app/src/debug/assets"/></dataSet></merger>
